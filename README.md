@@ -20,7 +20,8 @@ npm run electron-build
 ```
 ## Packaging for Desktop Operating Systems
 
-```npm install electron-packager -g
+```
+npm install electron-packager -g
 npm install electron-packager --save-dev
 ```
 In this example, I am going to build an executable for Windows and MacOS too.
